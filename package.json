@@ -1,0 +1,18 @@
+{
+  "name": "tdd_assignment",
+  "version": "1.0.0",
+  "description": "Jasmine Test",
+  "main": "Justin_Doronzo_TDDwithJasmine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "author": "Justin_Doronzo",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
